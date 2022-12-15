@@ -1,0 +1,10 @@
+#Questo è un esempio di gitignore che si può usare in un progetto Wwise
+*.prof
+*.akd
+*.validationcache
+GeneratedSoundBanks
+.cache
+.backup
+*.crossover.wsettings
+AutoDetectedSampleRates.cache
+.DS_Store
