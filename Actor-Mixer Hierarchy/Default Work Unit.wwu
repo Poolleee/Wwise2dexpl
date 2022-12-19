@@ -22,6 +22,7 @@
 						<ActiveSource Name="Menu" ID="{A90FB040-A1FB-45DA-BB7E-DB50EE8A07CD}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<WorkUnit Name="Player_Movement" ID="{AA98116F-6363-4329-94B4-E01EB087C258}" PersistMode="Reference"/>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
